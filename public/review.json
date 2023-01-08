@@ -1,0 +1,20 @@
+[
+    {
+        "_id":1,
+        "name": "Jhon Smith",
+        "comment":"Delivered in time",
+        "rating":"5 stars"
+    },
+    {
+        "_id":2,
+        "name": "Joe Ranga",
+        "comment":"Tools are best",
+        "rating":"5 stars"
+    },
+    {
+        "_id":3,
+        "name": "Will Smith",
+        "comment":"Awesome behaviour",
+        "rating":"5 stars"
+    }
+]

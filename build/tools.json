@@ -1,0 +1,56 @@
+[
+    {
+       
+        "img":"https://i.ibb.co/12YdmfW/monitorr.jpg",
+        "name":"Monitor",
+        "description":"The monitor is an output display device in desktop PC typically comes with a thin film transistor liquid crystal display (TFT-LCD) but presently its display.",
+        "minOrder":"500",
+        "available":"12000",
+        "price":"$150"
+    },
+    {
+       
+        "img":"https://i.ibb.co/8P9PK6S/keyboard.jpg",
+        "name":"Keyboard",
+        "description":"A computer keyboard is an input device used to enter characters and functions into the computer system by pressing buttons, or keys..",
+        "minOrder":"600",
+        "available":"17000",
+        "price":"$30"
+    },
+    {
+        
+        "img":"https://i.ibb.co/NpNvwhp/cpu.jpg",
+        "name":"CPU",
+        "description":"A central processing unit (CPU), also called a central processor, main processor or just processor, is the electronic circuitry that executes instructions ",
+        "minOrder":"7000",
+        "available":"600000",
+        "price":"$200.50"
+    },
+    {
+        
+        "img":"https://i.ibb.co/r312fqM/motherboard.jpg",
+        "name":"Motherboard",
+        "description":"A motherboard is a printed circuit board or a PCB that creates the skeletal structure of a PC. It hosts components such as the Processor or CPU.",
+        "minOrder":"700",
+        "available":"16000",
+        "price":"$100"
+    },
+    {
+       
+        "img":"https://i.ibb.co/mC7scxc/mouse.jpg",
+        "name":"Mouse",
+        "description":"A computer mouse (plural mice, sometimes mouses) is a hand-held pointing device that detects two-dimensional motion relative to a surface",
+        "minOrder":"650",
+        "available":"21000",
+        "price":"$55"
+    },
+    {
+        
+        "img":"https://i.ibb.co/H2SgpHv/ram.jpg",
+        "name":"Ram",
+        "description":"RAM for your Computer that can Boost Performance for running High-quality graphics, games and applications.",
+        "minOrder":"400",
+        "available":"19000",
+        "price":"$150"
+    }
+]

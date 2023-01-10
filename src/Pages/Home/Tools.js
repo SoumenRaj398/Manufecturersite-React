@@ -6,7 +6,7 @@ import Purchase from "../Purchase/Purchase";
 const Tools = () => {
   const [tools, setTools] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5000/tool")
+    fetch("https://manufectureapi.onrender.com/tool")
       .then((res) => res.json())
       .then((data) => setTools(data));
   }, []);
